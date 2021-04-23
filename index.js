@@ -9,3 +9,5 @@ function returnsANamedFunction(params) {
 function returnsAnAnonymousFunction(params) {
     return () => {`This is a string ${params}`}
 }
+
+//
